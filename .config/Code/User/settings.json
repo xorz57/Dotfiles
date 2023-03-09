@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.mouseWheelZoom": true,
+    "editor.renderWhitespace": "all",
+    "explorer.sortOrder": "type",
+    "workbench.editor.enablePreview": false
+}
